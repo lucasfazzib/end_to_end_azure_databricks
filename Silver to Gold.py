@@ -5,7 +5,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ##Fazendo um exemplo de transformacao para uma tabela
+# MAGIC ##Fazendo um exemplo de transformacao para uma tabela 
 
 # COMMAND ----------
 
